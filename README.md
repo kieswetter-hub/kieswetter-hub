@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently working on completing CS50 
+🌱 + The Odin Project
 
 
 <!--
