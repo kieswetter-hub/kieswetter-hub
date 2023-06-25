@@ -1,8 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently working on completing CS50 
+🌱 I’m currently learning and working on completing The Odin Project!
 
-🌱 + The Odin Project
-
+Love to code :)
 
 <!--
 **kieswetter-hub/kieswetter-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
