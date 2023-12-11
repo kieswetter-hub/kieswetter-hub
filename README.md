@@ -1,10 +1,16 @@
-### <p align="left">Hi there 👋</p>
-#### <p align="left"> I'm a Scientist who finds their flow when coding!</p>
+### Hi there, I'm Amanda 👋
 
-<p align="left">When I immerse myself in coding, time seems to disappear. I become fully absorbed in solving problems, designing figures or webpages, and bringing ideas to life. Here, you'll find repositories showcasing some of my recent coding projects and explorations.</p>
+Currently, I’m a research technician in a life sciences laboratory. My programming journey began with writing simple R scripts to graph ecological data. Ever since I’ve had a major soft spot for data visualization, often finding ways to work analysis projects into my private life.
+
+🌱 I’m currently learning web development with [The Odin Project](https://www.theodinproject.com)
+
+#LoveToCode
+
+#### Things I work with
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' width = '40'/> <img src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' width = '40'/>
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg' height = '40'/>
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width = '40'/>
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' height='40'/>
 
 
-<p align="left">🌱 I’m currently working on completing The Odin Project</p> 
-<p align="left">https://www.theodinproject.com</p>
 
-<p align="left">Love to code :)</p>
